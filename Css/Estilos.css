@@ -123,12 +123,8 @@ section footer nav ul li a i {
 .Sexto i{
 	color: #E0E918;
 }
-article{
-	background:#EDF999;
-	border-radius: 25%;
-}
 article div p{
-	font-size: 16px;
+	font-size: 15px;
 	float:right;
 	width:40%;
 	margin-right: 15%;
