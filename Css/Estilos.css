@@ -1,0 +1,215 @@
+body{
+	background: url(../Imagenes/Fondo3.jpg)
+	no-repeat center center fixed;
+	background-size:cover;
+	font-family: sans-serif;
+}
+header{
+	width: 100%;
+	margin:auto;
+	overflow: hidden;
+	color: #fff;
+}
+.Inicio{
+	background:#000;
+}
+.head{
+	float: left;
+	color: #fff;
+	font-family: cursive;
+	margin-left: 2%;
+}
+.Inicio nav{
+	float: right;
+	margin-top: 1%;
+}
+li{
+	display: inline;
+	padding:1rem;
+
+}
+li a{
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+.active:hover{
+	color:gold;
+}
+.container{
+	width: 70%;
+	margin:auto;
+	overflow: hidden;
+	margin-top: 1%;
+}
+showcase h1{
+	color: #000;
+	font-family: cursive;
+	text-align: center;
+
+}
+showcase h3{
+	color: #000;
+	text-align: center;
+	letter-spacing: 2px;
+
+}
+.category{
+	color: #000;
+	margin-top: 5%;
+	display: flex;
+	text-align: center;
+	font-family: cursive;
+}
+.Desayuno{
+	width: 110%;
+	height: 50%;
+	border-radius: 50%;
+	
+
+}
+.Bananasplit{
+	width: 70%;
+	border-radius: 50%;
+	margin-left: 5%;
+}
+.Milkshake{
+	width: 70%;
+	height: 50%;
+	border-radius: 50%;
+}
+.postres, .bebidas{
+	padding-left: 1rem;
+}
+.Final section {
+	padding-top: 1%;
+	padding-bottom: 1%;
+	width: 20%;
+	height: 20%;
+	background:#787862;
+}
+section .Final footer nav ul {
+	text-align: center;
+	margin-right:0;
+	margin-left:20px;
+	margin-bottom:5px;
+	margin-top: 5px;
+}
+section .Final footer nav ul li a i {
+	margin-right:7px;
+	margin-left:-50px;
+	font-size:50px;
+	background:#fff;
+	background-size: 50px;
+	border-radius: 60%;
+	padding: 5px,5px,5px,5px;
+
+}
+.Primero i{
+	color:#3447D3;
+	font-size:30px;
+}
+.segundo i{
+	color: #44454B;
+	font-size:30px;
+}
+.Tercero i {
+	color:#38D43F; 
+	font-size:30px;
+}
+.Cuarto i{
+	color: #B94935;
+	font-size:30px;
+}
+.Quinto i{
+	color: #ED1879;
+	font-size:30px;
+}
+.Sexto i{
+	color: #E0E918;
+	font-size:30px;
+}
+article{
+	background:#EDF999;
+	border-radius: 10%;
+}
+article div p{
+	font-size: 20px;
+	float:right;
+	width:40%;
+	margin-right: 15%;
+	margin-top: .5%;
+	font-family: cursive;
+	
+}
+article div figure img {
+	width: 30%;
+	height:30%;
+	margin-left:4%;
+	margin-right: 2%;
+	margin-bottom: 2%;
+	border-radius: 45%;
+
+}
+article div h2 {
+	text-align: center;
+	letter-spacing: 2px;
+	font-family:cursive;
+}
+section{
+	width: 100%;
+	margin-left: 35%;
+
+
+}
+section img {
+	width: 25%;
+	border-radius: 50%;
+
+}
+section .Titulo_Promociones{
+	font-size:40px;
+}
+section p {
+	font-size: 25px;
+	font-family: cursive;
+	width:15%;
+	float: right;
+	padding-right:55%;
+
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
